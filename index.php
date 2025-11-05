@@ -25,7 +25,8 @@
 
     <script src=project_fetch.js></script>
 </body>
+<br>
 
-<!--<?php include 'php_components/footer.php'; ?> -->
+<?php include 'php_components/footer.php'; ?> 
 
 </html>
